@@ -1,4 +1,5 @@
 🤖 Proyecto de Predicción de Criptomonedas (LSTM)
+
 Este proyecto utiliza un modelo de Red Neuronal Recurrente (LSTM) para predecir el precio futuro de la criptomoneda Solana (SOL) basándose en datos históricos.
 📋 Requisitos
 Para ejecutar este proyecto, necesitarás tener Python 3.x instalado. Puedes instalar todas las librerías necesarias ejecutando el siguiente comando en tu terminal:
